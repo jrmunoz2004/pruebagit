@@ -3,7 +3,7 @@ he cambiado el archivo el viernesRepositorio git para el curso Git desde cero
 Este repositorio conserva absolutamente todo el historial del curso.
 Se encuentra clasificado por capítulos almacenados en etiquetas (tags), para
 poder observar estos cambios debes revisar el log.
-
+este cambio se hizo desde segunda rama el agregar textos
 Para bajar el repositorio completo con todos los cápitulos de la serie Git
 desde Cero, debes clonar el mismo en tú equipo con el siguiente comando:
 

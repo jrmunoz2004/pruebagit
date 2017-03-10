@@ -1,7 +1,7 @@
 he cambiado el archivo el viernesRepositorio git para el curso Git desde cero
-
+cambios desde el comando stash
 Este repositorio conserva absolutamente todo el historial del curso.
-Se encuentra clasificado por capítulos almacenados en etiquetas (tags), para
+de encuentra clasificado por capítulos almacenados en etiquetas (tags), para
 poder observar estos cambios debes revisar el log.
 cambio para ilustrar el comando rebase
 en el repositorio se va a hacer algo con rebase

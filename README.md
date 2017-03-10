@@ -3,7 +3,8 @@ he cambiado el archivo el viernesRepositorio git para el curso Git desde cero
 Este repositorio conserva absolutamente todo el historial del curso.
 Se encuentra clasificado por capítulos almacenados en etiquetas (tags), para
 poder observar estos cambios debes revisar el log.
-
+cambio para ilustrar el comando rebase
+en el repositorio se va a hacer algo con rebase
 este cambio se hizo desde segunda rama el agregar textos
 otro cambio en el archivo de readme pero deases la rame que
 acabo de crear, se llama primera-rama

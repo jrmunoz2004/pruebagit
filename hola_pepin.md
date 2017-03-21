@@ -4,8 +4,8 @@
 Este cambio es de marzo en rama de los cambios varios de pepin
 agregando unos ligeros cambios al archivo.
 estoy cambiendo al archivo 16 marzo
-dfasdfg
-stamos en la rama de duplicado de cosa vartios
+efasdfg
+stamos er la rama de duplicado de cosa vartios
 dfsfsdfsfd cambio en el master
 21 marzo
 del 2017

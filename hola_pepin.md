@@ -6,4 +6,7 @@ agregando unos ligeros cambios al archivo.
 estoy cambiendo al archivo 16 marzo
 dfasdfg
 stamos en la rama de duplicado de cosa vartios
-introduciendo un cambio, para utilizarlo en la demostración.
+dfsfsdfsfd cambio en el master
+21 marzo
+del 2017
+ntroduciendo un cambio, para utilizarlo en la demostración.

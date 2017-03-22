@@ -9,4 +9,4 @@ stamos er la rama de duplicado de cosa vartios
 dfsfsdfsfd cambio en el master
 21 marzo
 del 2017
-ntroduciendo un cambio, para utilizarlo en la demostración.
+ntroduciendo un cambio, para utilizarlo en la demostracióeeste cambio se hace pero no se hace commit aun, va al stash

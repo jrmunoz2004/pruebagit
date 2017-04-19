@@ -1,0 +1,23 @@
+total 53
+drwxr-xr-x 1 User 197121    0 abr 19 12:03 ./
+drwxr-xr-x 1 User 197121    0 abr 19 11:15 ../
+drwxr-xr-x 1 User 197121    0 abr 19 11:54 .git/
+-rw-r--r-- 1 User 197121  101 mar  9 18:41 .gitmodules
+-rw-r--r-- 1 User 197121  540 mar 23 09:22 23marzo2017archivo1.txt
+-rw-r--r-- 1 User 197121   44 mar 23 09:24 23marzo2017archivo2.txt
+-rw-r--r-- 1 User 197121   29 mar 23 09:28 23marzo2017archivo3.txt
+-rw-r--r-- 1 User 197121  362 mar 22 16:59 Archivo2_cambio_de_nombre.txt
+drwxr-xr-x 1 User 197121    0 abr 19 11:33 carpeta1/
+drwxr-xr-x 1 User 197121    0 abr 19 11:49 carpeta2/
+drwxr-xr-x 1 User 197121    0 mar  9 18:41 chef-submodule/
+-rw-r--r-- 1 User 197121  111 mar 21 14:57 cherry-test.md
+-rw-r--r-- 1 User 197121   35 abr 19 11:55 demo.txt
+-rw-r--r-- 1 User 197121  498 mar 23 09:25 hola_pepin.md
+-rw-r--r-- 1 User 197121    0 abr 19 12:03 listado.txt
+drwxr-xr-x 1 User 197121    0 mar 10 10:15 node_express_subtree/
+-rw-r--r-- 1 User 197121  169 mar 22 17:00 nuevo_archivo.md
+-rw-r--r-- 1 User 197121  241 mar 21 14:57 nuevoarchivo2.md
+-rw-r--r-- 1 User 197121  176 mar 21 14:57 pepin02.txt
+-rw-r--r-- 1 User 197121  230 mar 23 09:26 pepin3.txt
+-rw-r--r-- 1 User 197121  216 mar 21 14:57 pepin4.txt
+-rw-r--r-- 1 User 197121 1279 mar 21 14:57 README.md

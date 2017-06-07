@@ -1,3 +1,4 @@
+ESTE archivo se ha modificado el 7 de junio
 he cambiado el archivo el viernesRepositorio git para el curso Git desde cero
 cambios desde el comando stash
 Este repositorio conserva absolutamente todo el historial del curso.

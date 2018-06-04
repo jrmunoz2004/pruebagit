@@ -1,0 +1,3 @@
+Este es el archivo que acabo de crear pancha txt
+para guardar los cambios se presiona ctrl+o
+para salir luego de guardados los cambios se presiona ctrl+x
